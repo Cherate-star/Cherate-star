@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Cherate
-- 👀 I’m interested in nothing...
+- 👀 welcome to talk to me
 - 🌱 I’m currently learning C language
-- 💞️ looking small surprise
+- 💞️ looking for small surprise
 - 📫 my email:le6345@outlook.com
-- 😄 you can call me everything you want
+- 😄 you can ask me everything you want
 - ⚡ sometimes diligent and sometimes lazy
 
 <!---
