@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C language
 - 💞️ looking for small surprise
 - 📫 my email:le6345@outlook.com
-- 😄 you can ask me everything you want
+- 😄 you can ask me everything you want to ask
 - ⚡ sometimes diligent and sometimes lazy
 
 <!---
