@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Cherate-star
-- 👀 I’m interested in reading books...
+- 👀 I’m interested in nothing...
 - 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...my email:le6345@outlook.com
-- 😄 Pronouns: ...cherate
+- 📫 How to reach me my email:le6345@outlook.com
+- 😄 Pronouns: 
 - ⚡ Fun fact: ...sometimes diligent and sometimes lazy
 
 <!---
