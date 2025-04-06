@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cherate
 - 👀 welcome to talk to me
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning Java，python language
 - 💞️ looking for small surprise
 - 📫 my email:le6345@outlook.com
 - 😄 you can ask me everything you want to ask
